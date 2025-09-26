@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "banana"
+    },
+    {
+      "id": 1,
+      "name": "black pen"
+    },
+    {
+      "id": 2,
+      "name": "blue pen"
+    },
+    {
+      "id": 3,
+      "name": "football"
+    },
+    {
+      "id": 4,
+      "name": "hairbrush"
+    },
+    {
+      "id": 5,
+      "name": "pencil"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

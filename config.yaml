@@ -1,0 +1,5 @@
+train : D:/PROJECTS/Opencv projects/cus_obj_detection/dataset/images/train
+val : D:/PROJECTS/Opencv projects/cus_obj_detection/dataset/images/val
+
+nc : 6
+names: ['black pen' , 'blue pen', 'hairbrush' , 'pencil','football','banana']
